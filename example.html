@@ -1,0 +1,17 @@
+<html>
+ <head></head>
+   <body>
+     <button id="imInlineButton" onclick="showMessage()"   >Inline JS!</button>
+     <button id="clickMeButton">Internal JS!</button>
+     <!-- Internal JavaScript -->
+     <script>
+     // Get the button element by its ID
+       const button = document.getElementById('clickMeButton');
+     // Add an event listener to run a function on click
+       button.addEventListener('click', function(){
+       alert ('Hello! This alert is triggered by internal JavaScript.');
+       });
+     </script>
+     <script src="example.js" defer></script>
+    </body>
+</html>
