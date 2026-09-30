@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "DCME Annual Meeting",
+    "category": "Competition",
+    "location": "Main Auditorium",
+    "attendees": 150
+  },
+  {
+    "id": 2,
+    "title": "Solar Powered Vehicle Prototype Presentation",
+    "category": "Exhibition",
+    "location": "Engineering Green",
+    "attendees": 80
+  }
+]
