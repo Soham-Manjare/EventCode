@@ -12,5 +12,12 @@
     "category": "Exhibition",
     "location": "Engineering Green",
     "attendees": 80
+  },
+  {
+    "id": 3,
+    "title": "Git and Github tutorial",
+    "category": "learninfg",
+    "location": "remote",
+    "attendees": 3
   }
 ]
