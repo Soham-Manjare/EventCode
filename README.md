@@ -1,4 +1,1 @@
-# EventCode
-just a sample website showing about coding events
-
-
+Just a simple webiste structure used to learn git and git github
